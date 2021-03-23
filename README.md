@@ -6,5 +6,5 @@ The scripts must be run in the following order
 1. PainDevData.R    - Loads in and isolates the variables of interest.
 2. PainDev.R        - Logistic regression analysis on the development of chronic pain
 3. Bivariateplot.R  - EDA: Creates bivariate plots of the variables of interest vs chronic pain development 
-4. Healthcare.R     - Zero-inflated regression of heatlcare utilisation on Wave 5 data
+4. Healthcare_wave5.R     - Zero-inflated regression of heatlcare utilisation on Wave 5 data
 5. Retirement.R     - Looks at the effects of chronic pain on early retirement
